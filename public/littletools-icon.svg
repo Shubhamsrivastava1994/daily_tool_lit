@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="LittleTools logo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7771ff"/>
+      <stop offset="1" stop-color="#5145d9"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="17" fill="url(#bg)"/>
+  <rect x="2" y="2" width="60" height="60" rx="17" fill="url(#shine)"/>
+  <g transform="translate(12 12) rotate(-7 20 20)" fill="none" stroke="#fff" stroke-width="5.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M26.8 4.5a12.2 12.2 0 0 0-14.3 15.1L4.8 27.3a5.1 5.1 0 0 0 7.2 7.2l7.7-7.7A12.2 12.2 0 0 0 34.8 12.5l-7.1 7.1-7.2-7.2 7.1-7.1a12.3 12.3 0 0 0-0.8-0.8Z"/>
+  </g>
+  <circle cx="16" cy="49" r="2" fill="#c8c5ff"/>
+  <circle cx="49" cy="15" r="2" fill="#c8c5ff"/>
+</svg>
